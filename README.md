@@ -24,4 +24,4 @@ Para compilar e executar este projeto, você precisará de um compilador C, como
 
 **3. Compile o código-fonte:**
 ```bash
-gcc jokenpo..c -o jokempo
+gcc jokenpo.c -o jokempo
